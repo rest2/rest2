@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rest2
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Python
