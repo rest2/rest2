@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Restu</h1>
 
 <h3>
-A passionate frontend developer and designer
+A passionate backend/frontend developer and designer
 </h3>
 
 <br>
