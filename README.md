@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android, PHP, UI & UX**
 
-- ⚡ Fun fact **I like playing games**
+- ⚡ **I like playing games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
